@@ -1,4 +1,4 @@
-o## Common mistakes (jv-oop)
+## Common mistakes (jv-oop)
 
 #### Please don't add redundant empty lines to your code.
 We don't need them after class declaration or method signature.
